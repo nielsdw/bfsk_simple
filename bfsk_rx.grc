@@ -60,7 +60,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1432, 388.0]
+    coordinate: [1048, 316.0]
     rotation: 0
     state: true
 - name: blocks_pack_k_bits_bb_0
@@ -76,7 +76,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1288, 404.0]
+    coordinate: [880, 332.0]
     rotation: 0
     state: true
 - name: digital_gfsk_demod_0
@@ -99,7 +99,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1064, 364.0]
+    coordinate: [632, 292.0]
     rotation: 0
     state: true
 - name: osmosdr_source_0
@@ -277,7 +277,7 @@ blocks:
     dc_offset_mode7: '0'
     dc_offset_mode8: '0'
     dc_offset_mode9: '0'
-    freq0: 433e6
+    freq0: 438e6
     freq1: 100e6
     freq10: 100e6
     freq11: 100e6
@@ -456,7 +456,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [480, 324.0]
+    coordinate: [72, 244.0]
     rotation: 0
     state: true
 - name: rational_resampler_xxx_0
@@ -465,9 +465,9 @@ blocks:
     affinity: ''
     alias: ''
     comment: ''
-    decim: '50'
+    decim: '500'
     fbw: '0.4'
-    interp: '10'
+    interp: '100'
     maxoutbuf: '0'
     minoutbuf: '0'
     taps: '[]'
@@ -476,7 +476,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [832, 380.0]
+    coordinate: [392, 308.0]
     rotation: 0
     state: true
 

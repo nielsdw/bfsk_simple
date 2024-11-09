@@ -64,7 +64,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [184, 348.0]
+    coordinate: [112, 348.0]
     rotation: 0
     state: true
 - name: blocks_unpack_k_bits_bb_0
@@ -394,4 +394,3 @@ connections:
 
 metadata:
   file_format: 1
-  grc_version: 3.10.5.1
